@@ -488,5 +488,5 @@ one.
 
 **Name:** Abhijeet Bansode
 **Email:** ssbansode022@gmail.com
-**GitHub:** add your profile URL here (none is recorded in this repository)
+**GitHub:** https://github.com/abhijeet-1203
 **Live application:** https://brandguard.apps.lemma.work
